@@ -1,0 +1,13 @@
+{
+    "asset_type" : "input_config",
+
+    "action_mappings" : {
+        "pause" : ["Space"],
+        "left" : ["A"],
+        "right" : ["D"],
+        "up" : ["W"],
+        "down" : ["S"]
+    },
+
+    "axis_mappings" : {}
+}

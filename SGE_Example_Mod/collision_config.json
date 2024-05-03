@@ -1,0 +1,21 @@
+{
+    "asset_type" : "collision_config",
+
+    "body_types" : {
+        "body" : 0
+    },
+
+    "collision_presets" : {
+        "ignore" : {
+            "body_type" : "body",
+            "responses" : {}
+        },
+
+        "body" : {
+            "body_type" : "body",
+            "responses" : {
+                "body" : "collide"
+            }
+        }
+    }
+}

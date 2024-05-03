@@ -1,0 +1,13 @@
+{ "object":
+    {
+     "height":0,
+     "id":47,
+     "name":"",
+     "point":true,
+     "rotation":0,
+     "type":"point",
+     "visible":true,
+     "width":0
+    },
+ "type":"template"
+}

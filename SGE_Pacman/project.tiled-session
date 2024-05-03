@@ -1,0 +1,89 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "scene/tilemap.tmj",
+    "expandedProjectPaths": [
+        "point",
+        ".",
+        "scenes",
+        "tilesets",
+        "intersection",
+        "scenes/test_scene",
+        "scenes/second_sequence",
+        "tiled_templates",
+        "scenes/first_sequence"
+    ],
+    "file.lastUsedOpenFilter": "Wszystkie pliki (*)",
+    "fileStates": {
+        "scene/tilemap.tmj": {
+            "scale": 23,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 180.93478260869566,
+                "y": 154.65217391304347
+            }
+        },
+        "scenes/first_sequence/tilemap.tmj": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 3,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1193.3333333333333,
+                "y": 627.6666666666666
+            }
+        },
+        "scenes/second_sequence/tilemap.tmj": {
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 208,
+                "y": 226
+            }
+        },
+        "scenes/test_scene/tilemap.tmj": {
+            "scale": 4,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 207.5,
+                "y": 119.25
+            }
+        },
+        "tileset/tileset.tsj": {
+            "scaleInDock": 4,
+            "scaleInEditor": 11
+        },
+        "tilesets/tileset.tsj": {
+            "scaleInDock": 2,
+            "scaleInEditor": 8
+        }
+    },
+    "last.imagePath": "C:/Projekty/SimpleGameEnigine/mods/SGE_Pacman/tileset",
+    "last.objectTemplatePath": "C:/Projekty/SimpleGameEnigine/mods/SGE_Pacman/intersection",
+    "map.height": 30,
+    "map.lastUsedFormat": "json",
+    "map.tileHeight": 8,
+    "map.tileWidth": 8,
+    "map.width": 52,
+    "openFiles": [
+        "scene/tilemap.tmj"
+    ],
+    "project": "project.tiled-project",
+    "property.type": "float",
+    "recentFiles": [
+        "scene/tilemap.tmj",
+        "tileset/tileset.tsj",
+        "scenes/first_sequence/tilemap.tmj",
+        "scenes/second_sequence/tilemap.tmj",
+        "scenes/test_scene/tilemap.tmj",
+        "tilesets/tileset.tsj"
+    ],
+    "tileset.lastUsedFormat": "json",
+    "tileset.tileSize": {
+        "height": 8,
+        "width": 8
+    }
+}

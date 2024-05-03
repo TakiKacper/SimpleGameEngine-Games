@@ -1,0 +1,6 @@
+{
+    "asset_type" : "sprite_sheet",
+    "path" : "$/some_sprite_sheet.png",
+    "sprite_width" : 16,
+    "sprite_height" : 16
+}

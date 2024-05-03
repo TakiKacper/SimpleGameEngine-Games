@@ -1,0 +1,29 @@
+{
+    "asset_type" : "flipbook",
+    "path" : "$/ghosts_sprites.png",
+
+    "sprite_width" : 8,
+    "sprite_height" : 8,
+
+    "animations" : {
+        "red" : {
+            "fps" : 4,
+            "frames" : [0, 1]
+        },
+
+        "green" : {
+            "fps" : 4,
+            "frames" : [4, 5]
+        },
+
+        "yellow" : {
+            "fps" : 4,
+            "frames" : [8, 9]
+        },
+
+        "purple" : {
+            "fps" : 4,
+            "frames" : [12, 13]
+        }
+    }
+}
