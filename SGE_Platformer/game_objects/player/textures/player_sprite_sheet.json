@@ -1,0 +1,14 @@
+{
+    "asset_type" : "flipbook",
+    "path" : "$/player_sprite_sheet.png",
+
+    "sprite_width" : 16,
+    "sprite_height" : 16,
+
+    "animations" : {
+        "idle" : {
+            "fps" : 4,
+            "frames" : [0, 1, 2, 3, 4, 5]
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "asset_type" : "input_config",
+
+    "action_mappings" : {
+        "jump" : ["Space"],
+        "change" : ["P"]
+    },
+
+    "axis_mappings" : {
+        "move_up" : {
+            "W" : 1,
+            "S" : -1
+        },
+
+        "move_right" : {
+            "D" : 1,
+            "A" : -1
+        }
+    }
+}

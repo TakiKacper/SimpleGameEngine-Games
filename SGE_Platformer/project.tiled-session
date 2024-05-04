@@ -1,0 +1,73 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "scenes/first_sequence/tilemap.tmj",
+    "expandedProjectPaths": [
+        "scenes/test_scene",
+        "tiled_templates",
+        "scenes",
+        "scenes/first_sequence",
+        "scenes/second_sequence",
+        ".",
+        "tilesets"
+    ],
+    "file.lastUsedOpenFilter": "Wszystkie pliki (*)",
+    "fileStates": {
+        "scenes/first_sequence/tilemap.tmj": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1119.6666666666665,
+                "y": 530
+            }
+        },
+        "scenes/second_sequence/tilemap.tmj": {
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 207.33333333333334,
+                "y": 225.3333333333333
+            }
+        },
+        "scenes/test_scene/tilemap.tmj": {
+            "scale": 4,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 207.5,
+                "y": 119.25
+            }
+        },
+        "tilesets/tileset.tsj": {
+            "scaleInDock": 2,
+            "scaleInEditor": 8
+        }
+    },
+    "last.imagePath": "C:/Projekty/SimpleGameEnigine/mods/SGE_Platformer/tilesets",
+    "last.objectTemplatePath": "C:/Projekty/SimpleGameEnigine/mods/SGE_Platformer/tiled_templates",
+    "map.height": 90,
+    "map.lastUsedFormat": "json",
+    "map.tileHeight": 8,
+    "map.tileWidth": 8,
+    "map.width": 156,
+    "openFiles": [
+        "scenes/first_sequence/tilemap.tmj"
+    ],
+    "project": "project.tiled-project",
+    "property.type": "float",
+    "recentFiles": [
+        "scenes/first_sequence/tilemap.tmj",
+        "scenes/second_sequence/tilemap.tmj",
+        "scenes/test_scene/tilemap.tmj",
+        "tilesets/tileset.tsj"
+    ],
+    "tileset.lastUsedFormat": "json",
+    "tileset.tileSize": {
+        "height": 8,
+        "width": 8
+    }
+}

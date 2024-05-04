@@ -1,0 +1,50 @@
+{
+    "asset_type" : "collision_config",
+
+    "body_types" : {
+        "wall" : 0,
+        "trace" : 1,
+        "player" : 2,
+        "trigger" : 3
+    },
+
+    "collision_presets" : {
+        "ignore" : {
+            "body_type" : "wall",
+            "responses" : {}
+        },
+
+        "wall" : {
+            "body_type" : "wall",
+            "responses" : {
+                "player" : "collide",
+                "trace" : "collide"
+            }
+        },
+
+        "player" : {
+            "body_type" : "player",
+            "responses" : {
+                "wall" : "collide",
+                "trace" : "ignore",
+                "trigger" : "overlap"
+            }
+        },
+
+        "look_for_wall" :
+        {
+            "body_type" : "trace",
+            "responses" : {
+                "wall" : "collide"
+            }
+        },
+
+        "player_trigger" :
+        {
+            "body_type" : "trigger",
+            "responses" : {
+                "player" : "overlap"
+            }
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "asset_type" : "flipbook",
+    "path" : "/debug/test_unit_flip.png",
+
+    "sprite_width" : 8,
+    "sprite_height" : 8,
+
+    "animations" : {
+        "swap" : 
+        {
+            "fps" : 2, 
+            "frames" : [1, 2]
+        }
+    }
+}
